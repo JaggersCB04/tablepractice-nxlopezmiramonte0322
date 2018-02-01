@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+
+  </head>
+
+  <body>
+<h1>Spring</h1>
+
+  <table>
+
+<tr>
+ <td>Period</td>
+ <td>Teacher</td>
+ <td>Class</td>
+ <td>Room</td>
+</tr>
+
+<tr>
+<td>1</td>
+<td>Anderson</td>
+<td>English</td>
+<td>81</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Price</td>
+<td>Social Studies</td>
+<td>72</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>Felix</td>
+<td>Science</td>
+<td>13</td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>Durand</td>
+<td>Spanish</td>
+<td>87</td>
+</tr>
+
+<tr>
+<td>5</td>
+<td>Day</td>
+<td>Algebra</td>
+<td>85</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td>Wons</td>
+<td>Art</td>
+<td>205</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td>Jaggers</td>
+<td>Web Creations</td>
+<td>57</td>
+</tr>
+
+
+<
+
+
+</table>
+
+<h1>Fall</h1>
+<table>
+
+<tr>
+<td>1</td>
+<td>Price</td>
+<td>Social Studies</td>
+<td>72</td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Felix</td>
+<td>Science</td>
+<td>13</td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>Randall</td>
+<td>Pe</td>
+<td>25</td>
+</tr>
+
+
+<tr>
+<td>4</td>
+<td>Anderson</td>
+<td>English</td>
+<td>81</td>
+</tr>
+
+
+<tr>
+<td>5</td>
+<td>Durand</td>
+<td>Spanish</td>
+<td>87</td>
+</tr>
+
+<tr>
+<td>6</td>
+<td>Day</td>
+<td>Algebra</td>
+<td>85</td>
+</tr>
+
+<tr>
+<td>7</td>
+<td>Wons</td>
+<td>Photograpgy</td>
+<td>205</td>
+</tr>
+
+
+  </body>
+</html>
